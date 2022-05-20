@@ -1,4 +1,0 @@
-UnityEngine.WebCamTexture
-UnityEngine.Networking
-UnityEngine.Network
-UnityEngine.Networking.UnityWebRequest
